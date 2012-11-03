@@ -1,4 +1,4 @@
 Rosalind
-========
+============
 
-Solution to Rosalind problems
+My Rosalind problem solutions
